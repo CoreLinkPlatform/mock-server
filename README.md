@@ -1,5 +1,10 @@
 # CoreLink Mock Server
 
+[![Maturity: Scaffold / Planned](https://img.shields.io/badge/maturity-scaffold%20%2F%20planned-lightgrey)](https://github.com/CoreLinkPlatform/.github/blob/main/REPOSITORY_MATURITY.md)
+[![Artifact: Not published](https://img.shields.io/badge/artifact-not%20published-lightgrey)](https://github.com/CoreLinkPlatform/mock-server)
+[![Contract-driven](https://img.shields.io/badge/mock-contract--driven-blue)](https://github.com/CoreLinkPlatform/api-contracts)
+[![Contract: v1 draft](https://img.shields.io/badge/contract-v1%20draft-orange)](https://github.com/CoreLinkPlatform/api-contracts)
+
 > **Maturity: Scaffold / Planned** — there is no supported mock runtime, container, or package in this repository yet.
 
 CoreLink Mock Server is the planned deterministic local/CI simulation boundary for versioned CoreLink public APIs, authentication/tenant failures, events/webhooks, and recovery scenarios.
